@@ -1,5 +1,9 @@
 ## Hi there
 <https://www.baidu.com/index.php?tn=75144485_1_dg&ch=9>
+```python
+print("Hello World")
+```
+$$\int_{-\infty}^{\infty} e^{\sqrt x}$$
 
 <!--
 **lexor-t/lexor-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
