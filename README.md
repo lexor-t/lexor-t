@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi
+## Hi there 👋  
+![百度](//www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
 <!--
 **lexor-t/lexor-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
